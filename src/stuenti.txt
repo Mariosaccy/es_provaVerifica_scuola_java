@@ -1,0 +1,6 @@
+matricola;nome;cognome;classe;media
+1042;Luca;Bianchi;5BII;7.5
+1007;Giulia;Rossi;4AII;8.2
+1130;Marco;Verdi;5BII;6.8
+1015;Sara;Neri;3CII;9.0
+1088;Paolo;Gallo;4AII;7.1
